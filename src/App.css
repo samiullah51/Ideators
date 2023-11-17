@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+.myCustomAudioPlayer .rhap_progress-filled {
+  background-color: rgb(6, 44, 6); /* Change the slider's filled color to red */
+}
+
+.myCustomAudioPlayer .rhap_progress-bar {
+  background-color: #a424b4; /* Change the slider's background color */
+}
+.customAudioRecorder {
+  /* Change the background color */
+  background-color: #f0f0f0; /* Replace with your preferred color */
+  /* Add other custom styles if needed */
+}
+.customPauseButton{
+  background-color: rebeccapurple;
+}
+/* Custom styles for the visualizer */
+.customVisualizerCanvas {
+  /* Change the color of the visualizer to red */
+  background-color: red; /* Change to your preferred color */
+  /* Add other custom styles for the visualizer */
+}
